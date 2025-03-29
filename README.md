@@ -47,7 +47,3 @@ SwiftianSymbolKit.image(named: "swiftian.logo.fill")
 
 This symbol is actively used in real-world SwiftUI apps on [Swiftian.com](https://swiftian.com), a platform for learning to code creatively.
 
----
-
-MIT License © 2025 ThinkSwift · Visit [swiftian.com](https://swiftian.com)
-
