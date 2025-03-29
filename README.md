@@ -45,9 +45,9 @@ SwiftianSymbolKit.image(named: "swiftian.logo.fill")
 
 ## See it in action
 
-This symbol is actively used at [Swiftian.com](https://swiftian.com), a SwiftUI-based coding platform.  
-Visit the site to see how the logo integrates with real-world apps and design.
+This symbol is actively used in real-world SwiftUI apps on [Swiftian.com](https://swiftian.com), a platform for learning to code creatively.
 
 ---
 
-MIT License © 2025 [ThinkSwift](https://swiftian.com)
+MIT License © 2025 ThinkSwift · Visit [swiftian.com](https://swiftian.com)
+
