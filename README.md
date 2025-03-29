@@ -1,7 +1,7 @@
 
 # SwiftianSymbolKit
 
-A lightweight Swift Package that provides a custom SF Symbol-style logo for Swiftian.
+A lightweight Swift Package that provides a custom SF Symbol-style logo used in [Swiftian.com](https://swiftian.com), an educational platform for SwiftUI learners and creative coders.
 
 ## Features
 
@@ -13,12 +13,18 @@ A lightweight Swift Package that provides a custom SF Symbol-style logo for Swif
 ### Via Xcode
 
 1. File > Add Packages...
-2. Click "Add Local..." and select the folder containing `Package.swift`
+2. Enter the URL below:
 
-### Via GitHub (coming soon)
+```
+https://github.com/thinkswift/swift-swiftian-symbol-kit
+```
+
+3. Select version `1.0.1` (or latest)
+
+### Via Swift Package Manager
 
 ```swift
-.package(url: "https://github.com/yourname/SwiftianSymbolKit", from: "1.0.0")
+.package(url: "https://github.com/thinkswift/swift-swiftian-symbol-kit", from: "1.0.1")
 ```
 
 ## Usage
@@ -37,6 +43,11 @@ SwiftianSymbolKit.image(named: "swiftian.logo.fill")
     .foregroundColor(.accentColor)
 ```
 
-## License
+## See it in action
 
-MIT License © 2025 Swiftian
+This symbol is actively used at [Swiftian.com](https://swiftian.com), a SwiftUI-based coding platform.  
+Visit the site to see how the logo integrates with real-world apps and design.
+
+---
+
+MIT License © 2025 [ThinkSwift](https://swiftian.com)
